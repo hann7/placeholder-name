@@ -1,0 +1,19 @@
+{
+  "name": "placeholder-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hann7/placeholder-name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hann7/placeholder-name/issues"
+  },
+  "homepage": "https://github.com/hann7/placeholder-name#readme"
+}
